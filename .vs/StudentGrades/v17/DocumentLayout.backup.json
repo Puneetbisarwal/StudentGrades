@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cms136\\Desktop\\Git\\StudentGrades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48F0843C-69DA-41B5-BC31-AAB2C462C202}|StudentGrades.nUnitTests\\StudentGrades.nUnitTests.csproj|c:\\users\\cms136\\desktop\\git\\studentgrades\\studentgrades.nunittests\\gradecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F0843C-69DA-41B5-BC31-AAB2C462C202}|StudentGrades.nUnitTests\\StudentGrades.nUnitTests.csproj|solutionrelative:studentgrades.nunittests\\gradecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4323318-62B7-49E2-9E9A-0CB45ADF0DCC}|StudentGrades\\StudentGrades.csproj|c:\\users\\cms136\\desktop\\git\\studentgrades\\studentgrades\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4323318-62B7-49E2-9E9A-0CB45ADF0DCC}|StudentGrades\\StudentGrades.csproj|solutionrelative:studentgrades\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4323318-62B7-49E2-9E9A-0CB45ADF0DCC}|StudentGrades\\StudentGrades.csproj|c:\\users\\cms136\\desktop\\git\\studentgrades\\studentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4323318-62B7-49E2-9E9A-0CB45ADF0DCC}|StudentGrades\\StudentGrades.csproj|solutionrelative:studentgrades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeCalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\cms136\\Desktop\\Git\\StudentGrades\\StudentGrades.nUnitTests\\GradeCalculatorTests.cs",
+              "RelativeDocumentMoniker": "StudentGrades.nUnitTests\\GradeCalculatorTests.cs",
+              "ToolTip": "C:\\Users\\cms136\\Desktop\\Git\\StudentGrades\\StudentGrades.nUnitTests\\GradeCalculatorTests.cs",
+              "RelativeToolTip": "StudentGrades.nUnitTests\\GradeCalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:42:28.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cms136\\Desktop\\Git\\StudentGrades\\StudentGrades\\Program.cs",
+              "RelativeDocumentMoniker": "StudentGrades\\Program.cs",
+              "ToolTip": "C:\\Users\\cms136\\Desktop\\Git\\StudentGrades\\StudentGrades\\Program.cs",
+              "RelativeToolTip": "StudentGrades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:33:30.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GradeCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\cms136\\Desktop\\Git\\StudentGrades\\StudentGrades\\GradeCalculator.cs",
+              "RelativeDocumentMoniker": "StudentGrades\\GradeCalculator.cs",
+              "ToolTip": "C:\\Users\\cms136\\Desktop\\Git\\StudentGrades\\StudentGrades\\GradeCalculator.cs",
+              "RelativeToolTip": "StudentGrades\\GradeCalculator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T06:27:56.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
